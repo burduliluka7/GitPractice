@@ -1,6 +1,7 @@
 import java.sql.*;
 import java.util.Scanner;
-
+//LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+//OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 public class Main {
     public static Connection connect(){
         Connection connection = null;
